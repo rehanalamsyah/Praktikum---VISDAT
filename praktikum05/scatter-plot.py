@@ -116,3 +116,4 @@ elif option == "Multiple Scatter Plot":
     multiple_scatter_plot()
 elif option == "Analisis Scatter Plot":
     scatter_3_variables()
+
